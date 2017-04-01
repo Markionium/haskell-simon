@@ -23,7 +23,7 @@ double n = 2 * n
 -- An example using double, square and size.
 
 example :: Integer
-example = double (size - square ( 2 + 2))
+example = double (size - square (2 + 2))
 
 --  4 = 2 + 2
 -- 16 = 4 * 4 
